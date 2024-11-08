@@ -1,0 +1,1 @@
+This template provides a minimal setup for building a chrome extension using vite
